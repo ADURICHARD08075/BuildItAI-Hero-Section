@@ -13,10 +13,10 @@ This project showcases a clean SaaS-style hero section built with a glassmorphis
 - Clear call-to-action placement for user engagement  
 
 ## 🖼️ Preview
-![Hero Mockup](hero-mockup.png)
+hero-mockup.png
 
 ## 🖥️ Full Desktop Design
-![Hero Desktop](hero-desktop.png)
+hero-section.png
 
 ## 🛠️ Tools Used
 - Figma (UI/UX Design)
